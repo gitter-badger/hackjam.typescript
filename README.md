@@ -1,5 +1,7 @@
 # Typescript Koans
 
+[![Join the chat at https://gitter.im/hackages/hackjam.typescript](https://badges.gitter.im/hackages/hackjam.typescript.svg)](https://gitter.im/hackages/hackjam.typescript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this set of examples and tests we cover typescript concepts by building a simple and lighter version of Lodash
 
 By the end of this session you should know the following points:
